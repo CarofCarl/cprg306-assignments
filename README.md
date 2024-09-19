@@ -1,36 +1,55 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+CPRG 306: Web Development 2 
+Project Title
+[Your project title here]
+Description
+This project is part of the CPRG 306 Web Development 2 course. It focuses on [brief description of your project's main purpose or goal].
+Key Features
 
-## Getting Started
+[Feature 1]
+[Feature 2]
+[Feature 3]
 
-First, run the development server:
+Installation
+Follow these steps to set up the project locally:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Clone the repository:
+Copygit clone [your-repo-link]
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Navigate to the project directory:
+Copycd [your-project-name]
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Install dependencies:
+Copynpm install
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+[Any additional setup steps]
 
-## Learn More
+Usage
+To run the project locally:
 
-To learn more about Next.js, take a look at the following resources:
+Start the development server:
+Copynpm run dev
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Open your browser and visit http://localhost:3000
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+[Add any additional usage instructions or examples here]
+Technologies Used
 
-## Deploy on Vercel
+[Technology 1, e.g., React]
+[Technology 2, e.g., Next.js]
+[Technology 3, e.g., Tailwind CSS]
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Learning Outcomes
+Through this project, I've gained experience in:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[Learning outcome 1]
+[Learning outcome 2]
+[Learning outcome 3]
+
+Contributing
+This project is primarily for educational purposes as part of the CPRG 306 course. However, feedback and suggestions are welcome. Please open an issue to discuss any changes you'd like to propose.
+License
+This project is open source and available under the MIT License.
+Acknowledgments
+
+CPRG 306 course instructors and teaching assistants
+[Any other acknowledgments]
