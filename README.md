@@ -36,15 +36,15 @@ To run the project locally:
 
 
 ## Technologies Used
-- [Technology 1,React]
-- [Technology 2,Next.js]
-- [Technology 3,Tailwind CSS]
+- React
+- Next.js
+- Tailwind CSS
 
 ## Learning Outcomes
 
-- [Week2]
-- [Week3]
-- [Week4]
+- Week2
+- Week3
+- Week4
 
 ## Contributing
 This project is primarily for educational purposes as part of the CPRG 306 course. However, feedback and suggestions are welcome. Please open an issue to discuss any changes you'd like to propose.
