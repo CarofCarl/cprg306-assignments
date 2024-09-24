@@ -42,9 +42,9 @@ To run the project locally:
 
 ## Learning Outcomes
 
-- Week2
-- Week3
-- Week4
+- week2
+- week3
+- week4
 
 ## Contributing
 This project is primarily for educational purposes as part of the CPRG 306 course. However, feedback and suggestions are welcome. Please open an issue to discuss any changes you'd like to propose.
