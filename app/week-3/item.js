@@ -2,13 +2,16 @@ import React from "react";
 
 const Item = ({ name, quantity, category }) => {
   return (
-    <li className="border border-gray-300 p-4 mb-2 rounded-lg shadow-sm bg-white">
-      <div className="flex justify-between items-center">
-        <span className="text-lg font-semibold">{name}</span>
-        <span className="text-sm text-gray-600">Qty: {quantity}</span>
-      </div>
-      <div className="text-sm text-gray-500 mt-1">{category}</div>
-    </li>
+    <div className="p-4 bg-gray-800 rounded-lg shadow text-white">
+      <p className="mb-1">
+        <span className="font-semibold text-2xl">{name}</span>
+      </p>
+      <p className="mb-1">
+        <span className="font-semibold">
+          Buy {quantity} in {category}
+        </span>
+      </p>
+    </div>
   );
 };
 
