@@ -1,5 +1,5 @@
 import React from "react";
-import Item from "./Item"; // 假设 Item 组件在同一目录下
+import Item from "./Item";
 
 const item1 = {
   name: "milk, 4 L 🥛",
