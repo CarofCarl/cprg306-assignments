@@ -1,5 +1,5 @@
 import React from "react";
-import Item from "./Item";
+import Item from "./item.js";
 
 const item1 = {
   name: "milk, 4 L 🥛",
