@@ -50,7 +50,7 @@ export default function Page() {
 
           {/* Link to shopping list page */}
           <Link
-            href="/week-9/shopping-list"
+            href="/week-10/shopping-list"
             className="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded"
           >
             Go to Shopping List
